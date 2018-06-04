@@ -1,5 +1,5 @@
 ## Graphics  
-This folder contains graphics projects currently written in Python.  
+This folder contains graphics projects written in Python.  
 
 ### Heatmap  
 #### F1_dataset_Heatmap.ipynb
