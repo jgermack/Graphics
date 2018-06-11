@@ -1,7 +1,8 @@
 ## Graphics  
-This folder contains graphics projects written in Python.  
+This folder contains a variety of examples of graphs created  
+in Python primarily with plotly. 
 
-### Heatmap  
+### Heatmap Folder  
 #### F1_dataset_Heatmap.ipynb
 This is a visual analysis of 2012 F1 race results using a heatmap.  
 
