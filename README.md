@@ -3,7 +3,7 @@ This folder contains a variety of examples of graphs created
 in Python primarily with plotly. 
 
 #### Heatmap  
-#### F1_dataset_Heatmap.ipynb
+#### F1_dataset_Heatmap.ipynb  
 This is a visual analysis of 2012 F1 race results using a heatmap.  
 
 #### Line/TimeSeries 
